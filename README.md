@@ -1,1 +1,1 @@
-# movie-festival
+# Vue 3 + Vite + Supabase
